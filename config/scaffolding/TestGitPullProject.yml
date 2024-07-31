@@ -11,4 +11,4 @@ packages:
   gitServerName: GithubOrigin
   gitUrl: https://github.com/Munatri
   gitUsername: Munatri
-  gitBranch: main
+  gitBranch: branch2
