@@ -7,3 +7,8 @@ packages:
   gitUrl: https://github.com/santhu736852/TestGitPullProject
   gitUsername: santhu736852
   gitBranch: main
+- name: SecurityTabCheck
+  gitServerName: GithubOrigin
+  gitUrl: https://github.com/Munatri
+  gitUsername: Munatri
+  gitBranch: main
