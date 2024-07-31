@@ -8,18 +8,18 @@
   <null name="shutdown_services"/>
   <null name="replication_services"/>
   <record name="requires" javaclass="com.wm.util.Values">
-    <value name="SecurityTabCheck">2.0</value>
+    <value name="SecurityTabCheck">1.0</value>
   </record>
   <null name="listACL"/>
   <value name="webappLoad">yes</value>
   <value name="reloadWithDependentPackage">yes</value>
-  <value name="build">4</value>
+  <value name="build">5</value>
   <null name="description"/>
   <value name="created_date">31-07-2024 04:07:55 GMT</value>
   <null name="extendedProperties"/>
   <null name="target_server_version"/>
   <value name="isProjectPackage">true</value>
-  <value name="lastUpdated">2024-07-31T04:20:11.625586222Z</value>
+  <value name="lastUpdated">2024-07-31T04:20:26.212832661Z</value>
   <value name="wmProjectId">fl07331e71e57b8d9e96fefc</value>
   <value name="creator">Munatri Baruah</value>
 </Values>
